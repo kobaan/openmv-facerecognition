@@ -1,5 +1,7 @@
 # Face Tracking and Recognition
 #
+# 2017-2018 AK, The Teddy Robot Project
+#
 # NOTE: LOTS OF KEYPOINTS MAY CAUSE THE SYSTEM TO RUN OUT OF MEMORY!
 #
 # servo code not yet migrated to I2C, and object notifications also not finished
